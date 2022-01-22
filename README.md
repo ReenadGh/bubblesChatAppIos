@@ -79,10 +79,12 @@ search for users to chat with !
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/66906961/150654417-d0c92b71-c29b-41ea-b625-8442bd6671dc.PNG" width="200" height="200">
 <img src=
 "https://user-images.githubusercontent.com/66906961/150654569-9d45e4c0-a925-40c4-ac5a-806d443b9899.PNG" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/66906961/150654608-98a5f3e1-f624-4e30-9ffd-5fe0427cc590.png" width="200" height="200">
+
 </p>
+
 
 
 
