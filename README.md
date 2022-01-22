@@ -28,3 +28,13 @@ https://user-images.githubusercontent.com/66906961/150648789-341078fd-f73c-4671-
 
 
 
+
+# Registration
+
+https://user-images.githubusercontent.com/66906961/150652286-6e97e0d5-1415-49ee-970a-0e350053a993.mov
+
+
+- make sure all fields are filled 
+- make sure the password and confirm password are the same 
+- (show firebase authentication error message ) 
+
