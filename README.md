@@ -44,14 +44,11 @@ https://user-images.githubusercontent.com/66906961/150652286-6e97e0d5-1415-49ee-
 
 ## Home Page 
 
-
-
-
-
-
-<p align="center">
 - contains all the conversations that have been sent and received
 - at the bottom - tab bar - to navigate smoothly in the application
+- 
+<p align="center">
+
 <img src="https://user-images.githubusercontent.com/66906961/150653959-a70cead0-b102-4dda-920d-7b2b5434d21e.PNG" width="200" height="400">
   <img src="https://user-images.githubusercontent.com/66906961/150654116-ca32a9c6-fda9-4a4f-a34f-8f53dbd7a7e8.PNG" width="200" height="400">
 </p>
@@ -60,12 +57,23 @@ https://user-images.githubusercontent.com/66906961/150652286-6e97e0d5-1415-49ee-
 
 ## profile Page 
 
-
-<p align="center">
 - contains the user's information and 
 -  allow user to change the profile picture using camera or uploaded from iphone then saved in the Database
+<p align="center">
 <img src="https://user-images.githubusercontent.com/66906961/150654340-dc1366b7-039d-4600-bf55-c182e4dd9664.PNG" width="200" height="400">
   <img src="https://user-images.githubusercontent.com/66906961/150654344-4def47f2-1168-49bc-93ba-db648d390552.PNG" width="200" height="400">
 </p>
+
+
+## Search 
+
+search for users to chat with ! 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66906961/150654417-d0c92b71-c29b-41ea-b625-8442bd6671dc.PNG" width="200" height="400">
+
+</p>
+
+
+
 
 
