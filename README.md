@@ -49,7 +49,8 @@ at the bottom - tab bar - to navigate smoothly in the application
 
 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66906961/150653959-a70cead0-b102-4dda-920d-7b2b5434d21e.PNG" width="200" height="400">
+</p>
 
 
-
-<img src="https://user-images.githubusercontent.com/66906961/150653959-a70cead0-b102-4dda-920d-7b2b5434d21e.PNG" width="100" height="100">
