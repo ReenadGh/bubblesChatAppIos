@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/66906961/150652286-6e97e0d5-1415-49ee-
 
 
 ## Home Page 
-contains all the conversations that have been sent and received 
+contains all the conversations that have been sent and received \n
 at the bottom - tab bar - to navigate smoothly in the application
 
 
