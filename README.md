@@ -45,13 +45,11 @@ https://user-images.githubusercontent.com/66906961/150652286-6e97e0d5-1415-49ee-
 contains all the conversations that have been sent and received 
 at the bottom - tab bar - to navigate smoothly in the application
 
-![IMG_0053](htt![homePage](https://user-images.githubusercontent.com/66906961/150653889-82145cec-35b1-4854-966e-c677c29c1592.PNG)
-ps://user-images.githubusercontent.com/66906961/150653875-637acaba-fe27-4e2e-8149-c5ce2ba6c19b.PNG)
 
 
 
 
 
-
+![IMG_0053](https://user-images.githubusercontent.com/66906961/150653959-a70cead0-b102-4dda-920d-7b2b5434d21e.PNG | width = 100 )
 
 
